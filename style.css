@@ -1,0 +1,43 @@
+h1 {
+
+	text-align: center;
+	font-size: 40px;
+}
+
+p { 
+
+  font-size: 30px;
+  color: red;
+  text-align: center;
+
+}
+#newGame{
+
+	text-align: center;
+	float: center;
+	
+}
+/*Box Style*/
+#box-container {
+
+	margin: 0 auto;
+	width: 500px;
+	height: 500px;
+	font-size: 120px;
+	text-align: center;
+}
+
+.box {
+
+	height: 33.3%;
+	width: 33.3%; 
+	float: left;
+	outline: 1px solid;
+}
+
+.box:hover {
+
+	background-color: #999999;
+}
+
+
